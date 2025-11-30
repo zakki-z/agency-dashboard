@@ -92,7 +92,7 @@ bun dev
 
 ## 6. Deployment
 
-This Next.js application  is currently availbale at [link](https://agency-dashboard-p092ruft0-zakariae-azharis-projects.vercel.app)
+This Next.js application  is currently availbale at this [link](https://agency-dashboard-iota.vercel.app/)
 
 If you wanna deploy it yourself, the best way is by using the Vercel Platform, the creators of Next.js.
 
